@@ -15,6 +15,7 @@ This is a curated list about tools for everything from productivity to hosting t
 
 #### Prompt Libraries
 - TopFreePrompts - https://topfreeprompts.com
+- PromptingStudioAI - https://promptingstudioai.com
 
 #### AI Website & Design Templates
 - BrowserMoon - https://www.browsermoon.com
